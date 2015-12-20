@@ -1,0 +1,85 @@
+* { box-sizing: border-box; }
+
+article {
+  height: 50rem;
+  margin: auto;
+}
+body {
+  position: absolute;
+  text-align: center;
+  background-color: white;
+  width: 100%;
+  margin: auto;
+  
+  
+}
+h1 { 
+  text-align: center;
+  color: darkgreen;
+  font-family: cursive;
+  font-size: 3rem;
+}
+a {
+  list-style: none;
+  color: saddlebrown;
+  text-decoration: none;
+}
+nav li {
+  float: left;
+  list-style: none;
+  text-align: center;
+  background-color: darkseagreen;
+  border-style: solid;
+  border-color: green;
+  border-width: thin;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  font-family: cursive;
+  width: 17.42%;
+  height: 2.5rem;
+  letter-spacing: 1px;
+  margin: auto;
+  margin-left: -40px;
+}
+aside { 
+  float: left;
+  height: 38.5rem;
+  list-style: none;
+  text-decoration: none;
+  background-color: bisque;
+  color: bisque;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 2;
+  font-family: cursive;
+  font-size: 100%;
+  padding-right: 2rem;
+  padding-left: 1rem;
+  padding-top: 6rem; 
+  padding-bottom: 4rem;
+  text-align: center;
+  margin: auto;
+}
+div {
+  background-color: lightyellow;
+  height: 41rem;
+  margin: auto;
+}
+ 
+figure {
+  padding-top: 8rem; 
+}
+
+figcaption {
+  font-family: cursive;
+  color: saddlebrown;
+  padding-top: 2rem;
+  text-align: center;
+}
+footer {
+  padding-top: 1rem;
+  letter-spacing: 30px;
+ 
+}
+
+
